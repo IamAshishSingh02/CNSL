@@ -25,3 +25,4 @@ print(result)
 
 # Close connection
 client_socket.close()
+
